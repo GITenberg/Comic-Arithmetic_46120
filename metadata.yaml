@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '33921'
     url: http://www.gutenberg.org/2009/agents/33921
 description: Authorship attributed to Percival Leigh.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46120#Comic-Arithmetic
 gutenberg_issued: '2014-06-28'
 gutenberg_type: Text
 identifiers:
